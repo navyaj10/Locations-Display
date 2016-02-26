@@ -1,9 +1,6 @@
 README FILE
 ============
 
-Navya Jagadish (1001123169)
----------------------------
-
 #####Beautiful Locations
 
 This is a small project on listing beautiful locations around the world. All files have been zipped into a folder. I chose MongoDB for NOSql Database, because I felt it was more compatible than my other option, Couchbase.
