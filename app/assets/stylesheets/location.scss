@@ -1,0 +1,38 @@
+// Place all the styles related to the location controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+	font-family: "Cooper Black";
+    color:Black;
+    padding:25px;
+    background-image: url("http://thumbs.dreamstime.com/z/light-green-floral-background-6290397.jpg");
+    background-size: 1280px 760px;
+}	
+.background-image {
+	filter: blur(5px);
+}
+h1 {
+	font-size: 55px;
+}
+h3 {
+	font-size: 25px;
+}
+th, td {
+    padding: 25px;
+    text-align: left;
+}
+table {
+    color:Black; 
+    background-color: #CCFFCC;
+    position: absolute;
+}
+th {
+	font-size: 50px;
+}
+
+button {
+	font-weight: bold;
+	padding: 10px;
+	overflow: visible;
+	background-color: #CCFFCC;
+}

@@ -1,0 +1,9 @@
+<table>
+<tr>
+<% @datacalled.each_with_index do |item| %>
+	<td><b><%= item["country"] %></b></td>
+	<td><b><%= item["code"] %></b></td>
+	<td><b><%= item["city"] %></b></td>
+</tr>
+<% end %>
+</table>
